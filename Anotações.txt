@@ -1,0 +1,46 @@
+Conhecemos os tipos const e let e qual a diferença entre eles: sendo que no primeiro caso os valores da variável não podem se modificar, 
+e no segundo caso sim. Além disso, estudamos as boas práticas para manter uma variável constante a fim de evitar erros e inconsistências em nosso programa.
+
+listaDeDestinos.push(posição , quantidade de elementos que quero deletar); adiciona um item dentro de uma lista de arrey , listaDeDestinos.push(2,1);
+nesse caso vai deletar o 3 intem da lista e apenas ele , pois a quantidade de item que foi colocada é 1.
+
+listaDeDestinos.splice(); remove um item dentro de uma lista de array.
+
+obs: lembrando que uma contagem de array começa sempre em 0.
+
+console.log(listaDeDestino[1]); vai mostrar o segundo intem da lista , mesmo tendo outros .
+
+se quiser mostrar dois ou mais é só fazer: console.log(listaDeDestino[1], listaDeDestinos[0]);
+
+
+Declarando lista com Array:
+
+const listaDeDestinos = new Array(
+	"Salvador",
+	"São Paulo",
+	"Rio de Janeiro"
+);
+
+
+
+shift + alt + f é para formatar , algo sobre identação.
+
+
+console.log("Embarque: \n\n")                         // O \n ele pula linha , como tem dois vai pular duas linhas.
+if(idadeComprador >= 18 && temPassagemComprada)
+    console.log("Boa viagem");
+}else{
+    console.log("Você não pode embarcar");
+} 
+
+
+
+
+O while trabalha basicamente da seguinte forma , enquanto essa condição for verdadeira , executa esse bloco .
+
+
+
+
+
+
+								Operador Lógico: ||  (ou).
